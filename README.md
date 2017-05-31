@@ -7,7 +7,9 @@ Top-10-Cars
 
 A web scrapper that compares the top 10 cars of two different websites.
 Takes the Name, Image & a Descrition of each car from the two websites 
-and displays them all side by side on a single webpage.
+and displays them all side by side on a single webpage. *NOTE an external 
+library is needed(jsoup-1.10.1.jar) which I have included in the
+documentation folder.
 
 
 ### I have it convereted to JSP to be accessed online
